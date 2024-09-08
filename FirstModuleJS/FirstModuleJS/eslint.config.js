@@ -34,8 +34,8 @@ export default [
         { allowConstantExport: true },
       ],
     },
-    quotes: ['error', 'single'],
-    'react/prop-types': [0],
-    'ident': ['error', 'tab'],
+    // quotes: ['error', 'single'],
+    // 'react/prop-types': [0],
+    // 'ident': ['error', 'tab'],
   },
 ]
